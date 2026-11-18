@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VoluNext</string>
+    <string name="accessibility_description">Uses volume button long presses for music controls. Short presses adjust volume.</string>
+</resources>
